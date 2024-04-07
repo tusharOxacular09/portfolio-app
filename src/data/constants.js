@@ -5,7 +5,7 @@ export const Bio = {
     "I am a versatile full-stack developer with expertise in the MERN stack and cloud technologies such as AWS and GCP. Proficient in creating scalable and efficient web applications, I bring a passion for problem-solving and a commitment to staying updated on the latest advancements in the ever-evolving tech landscape.",
   github: "https://github.com/tusharOxacular09",
   resume:
-    "https://drive.google.com/file/d/1nJTqeO5AB6fafXTLb-vkiI_RiIAv1AnY/view?usp=sharing",
+    "https://drive.google.com/file/d/1fuoiw7hhbJEsStA_XN8yEGn6tIlbEmPH/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/tushar-kanta-swain-0b89ab263/",
   youtube: "https://www.youtube.com/channel/UCbImbp2Y9pN46jVOhudCQHQ",
 };
@@ -148,7 +148,7 @@ export const experiences = [
     img: "/images/digitalmentalism.png",
     role: "Fullstack Developer Intern",
     company: "Digitalmentalism",
-    date: "January 2023 - November 2024",
+    date: "February 2023 - December 2023",
     desc: "Working as a MERN stack developer. MongoDB, ExpressJS, ReactJS and NodeJS.",
     skills: [
       "ReactJS",
