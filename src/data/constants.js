@@ -2,13 +2,13 @@ import Rentifai from "../images/Rentifai.png";
 
 export const Bio = {
   name: "Tushar Kanta Swain",
-  roles: ["Full Stack Developer", "Devops", "Programmer"],
+  roles: ["Full Stack Developer", "Devops Engineer", "Programmer"],
   description:
     "I am a versatile full-stack developer with expertise in the MERN stack and cloud technologies such as AWS and GCP. Proficient in creating scalable and efficient web applications, I bring a passion for problem-solving and a commitment to staying updated on the latest advancements in the ever-evolving tech landscape.",
   github: "https://github.com/tusharOxacular09",
   resume:
-    "https://drive.google.com/file/d/1fxs395jrWvPWINfcGU7x0j_yXcFxS8y_/view",
-  linkedin: "https://www.linkedin.com/in/tushar-kanta-swain-0b89ab263/",
+    "https://drive.google.com/file/d/1X9E9zjRk1WuYqAjLRXdTnz50ABMLNjun/view",
+  linkedin: "https://www.linkedin.com/in/tushar-kanta-swain/",
   youtube: "https://www.youtube.com/channel/UCbImbp2Y9pN46jVOhudCQHQ",
 };
 
