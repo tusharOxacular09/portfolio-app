@@ -98,7 +98,7 @@ function Footer() {
           </SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Tushar Kanta Swain. All rights reserved.
+          &copy; 2025 Tushar Kanta Swain. All rights reserved.
         </Copyright>
       </FooterWrapper>
     </FooterContainer>
